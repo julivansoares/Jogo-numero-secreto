@@ -1,0 +1,1 @@
+var SpeechRecognition = window.SpeechRecongnition || webkitSpeechRecognition
