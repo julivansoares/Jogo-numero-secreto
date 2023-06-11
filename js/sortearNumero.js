@@ -13,6 +13,4 @@ function gerarNumeroAleatorio(){
 }
 const numeroSecreto =gerarNumeroAleatorio();
 
-//console.log(numeroSecreto)
-
 
